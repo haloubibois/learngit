@@ -4,5 +4,10 @@ hahahah
 git has a mutable index called stage.
 trackes changes of files.
 changes to be cancelled.
+<<<<<<< HEAD
 Creating a new branch is quick AND simple.
 harahara
+=======
+Creating a new branch is quick.
+harahara
+>>>>>>> dev
